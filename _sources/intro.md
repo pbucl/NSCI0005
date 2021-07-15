@@ -1,16 +1,3 @@
-# Welcome to your Jupyter Book
+# Introduction
+All of the lecture notes for this module can be found here. When viewing the notes, you can navigate the chapters and sub-chapters using the Table of Contents that appears in the left sidebar, and you can print a version of the book from the button available on the top menu. At the end of each chapter you can find the solutions to the problems that appear throughout.
 
-This is a small sample book to give you a feel for how book content is
-structured.
-
-:::{note}
-Here is a note!
-:::
-
-And here is a code block:
-
-```
-e = mc^2
-```
-
-Check out the content pages bundled with this sample book to see more.
